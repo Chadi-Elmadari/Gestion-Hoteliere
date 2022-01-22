@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ghotel:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Ghotel.war">
+      <element id="artifact" artifact-name="Ghotel:war exploded" />
+    </root>
+  </artifact>
+</component>
